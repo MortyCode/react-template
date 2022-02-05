@@ -1,0 +1,28 @@
+.app {
+  height: 98vh;
+  display: flex;
+  flex-direction: column;
+  background: #ffffff;
+  
+}
+
+.top {
+  flex: 0;
+  border-bottom: solid 1px var(--adm-border-color);
+  height: 10vh;
+}
+
+.body {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fff;
+  height: 80vh;
+}
+
+.bottom {
+  flex: 0;
+  height: 10vh;
+  border-top: solid 1px var(--adm-border-color);
+}

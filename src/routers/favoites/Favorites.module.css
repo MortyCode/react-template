@@ -1,0 +1,35 @@
+.top {
+    height: 20vh;
+}
+
+.footer {
+    margin-bottom: 5px;
+}
+
+.footers {
+    height: 70vh;
+    width: 90vw;
+    padding: 10px;
+    overflow: scroll;
+}
+
+.favorites {
+    display: flex;
+    justify-content: flex-end;
+    border-left: 1px #333 solid;
+}
+
+.heart {
+    margin-top: 4px;
+    color: red;
+}
+
+.heart2 {
+    margin-top: 4px;
+    color: #333;
+}
+
+.head {
+    height: 10vh;
+    margin-bottom: 10px;
+}

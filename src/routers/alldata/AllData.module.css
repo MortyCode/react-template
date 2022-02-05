@@ -1,0 +1,23 @@
+
+.top {
+    border-bottom: 1px solid #333;
+}
+
+.body {
+  height: 75vh;
+  width: 95vw;
+  overflow: scroll ;
+  background-color: rgb(209, 209, 209);
+  border-top: 1px solid #333;
+}
+
+.customBody {
+  margin-top: 10px;
+}
+
+.footers{
+  margin-top: 5px;
+  height: 55vh;
+  width: 95vw;
+  overflow: scroll ;
+}

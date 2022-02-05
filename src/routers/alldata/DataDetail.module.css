@@ -1,0 +1,14 @@
+.body{
+    height: 80vh;
+    overflow: scroll ;
+    background-color: #fff;
+}
+
+.detail{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.detail_title{
+    margin-top: 10px;
+}

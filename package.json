@@ -1,0 +1,35 @@
+{
+  "name": "snowman",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@babel/plugin-transform-react-jsx-compat": "^7.16.7",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@mui/icons-material": "^5.2.5",
+    "@mui/material": "^5.2.8",
+    "antd-mobile": "^5.0.0-rc.18",
+    "axios": "^0.24.0",
+    "react": "^17.0.2",
+    "react-activation": "^0.9.7",
+    "react-dom": "^17.0.2",
+    "react-markdown": "^7.1.2",
+    "react-redux": "^7.2.6",
+    "react-router-dom": "^6.2.1",
+    "remark-gfm": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "vite": "^2.7.2",
+    "vite-plugin-babel": "^1.0.0"
+  },
+  "main": "index.js",
+  "repository": "https://gitee.com/haipengliang/snowman.git",
+  "author": "梁 <lhp0305@vip.163.com>",
+  "license": "MIT"
+}

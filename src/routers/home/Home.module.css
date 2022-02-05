@@ -1,0 +1,137 @@
+.content {
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    user-select: none;
+    height: 25vh;
+}
+
+.top {
+    height: 25vh;
+}
+
+.card {
+    margin-top: 10px;
+}
+
+.customBody {
+    margin-top: 10px;
+}
+
+.search {
+    padding-top: 6px;
+    padding-right: 6px;
+}
+
+.search_button {
+    margin-left: 5px;
+    border-radius: 2px;
+}
+
+.search_input {
+    --font-size: 15px;
+    --color: rgb(70, 69, 69);
+    border: 1px solid rgb(201, 201, 201);
+    border-radius: 5px;
+    padding-left: 8px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    width: 90vw;
+    margin-left: 5px;
+    margin-bottom: 3px;
+}
+
+.search_icon {
+    font-size: small;
+}
+
+.body {
+    /* height: 70vh; */
+    width: 95vw;
+    /* background: #f3f3f3; */
+}
+
+.footers {
+    margin-top: 5px;
+    height: 75vh;
+    width: 95vw;
+    overflow: scroll;
+}
+
+.images {
+    /* width: 40vw; */
+}
+
+.detail_d1 {
+    float: left;
+    text-align: left;
+    /* width: 50vw; */
+}
+
+.dht {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding-left: 10px;
+    font-size: medium;
+    color: #333;
+}
+
+.dhtcontext {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 10px;
+    font-size: x-small;
+    color: rgb(97, 97, 97);
+}
+
+.introduce {
+    padding: 10px;
+    font-size: xx-small;
+}
+
+.Heart {
+    text-align: right;
+}
+
+.filter_commit {
+    text-align: center;
+}
+
+.filter_commit_btu {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 45vw;
+    border-radius: 10px;
+}
+
+.filter_cancel {
+    text-align: center;
+}
+
+.filter_cancel_btu {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 45vw;
+    border-radius: 10px;
+}
+
+.filter_item {
+    padding: 3px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.filter_item_title {
+    padding-left: 2vh;
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: rgb(167, 163, 163);
+}
+
+.heart {
+    margin-top: 4px;
+    color: red;
+}
